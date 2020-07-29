@@ -1,0 +1,35 @@
+FIT2099 2020 S1 Assignment 2 WBA
+Team: KingEngine
+
+Team Member Responsibilities:
+1. Kee Pei Jiin 
+- Code for the following functionalities:
+	a) Zombie attacks using intrinsic weapons (bite/punch)
+	b) Zombie says "Braaaaains"
+	c) Human corpse revives as Zombie
+	d) Farmer sows and fertilise crops
+	e) Farmer and Player harvest crops for food
+- Updated UML Class diagram and documentation accordingly, if there're changes in the implementation for the above functionalities.
+- Review Wei Li's code
+- Write documentation (JavaDoc) for half of the classes
+- Discusses and contributes ideas for extra features (Bonus Mark part)
+Expected delivery date: 21 May 2020
+
+2. Tan Wei Li
+- Code for the following functionalities:
+	a) Zombie picks up weapon and attacks using weapons
+	b) Effects on Zombie when it is being attacked (drop limbs)
+	c) Allows Player to craft weapons from Zombie's limbs
+	d) Allows injured Human and Player to consume food for health point restoration
+- Updated UML Class diagram and documentation accordingly, if there're changes in the implementation for the above functionalities.
+- Review Pei Jiin's code
+- Write documentation (JavaDoc) for half of the classes
+- Discusses and contributes ideas for extra features (Bonus Mark part)
+Expected delivery date: 21 May 2020
+
+Team Agreement:
+Member: Kee Pei Jiin
+Statement: I accept this WBA.
+
+Member: Tan Wei Li
+Statement: I accept this WBA.

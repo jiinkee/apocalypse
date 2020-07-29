@@ -1,0 +1,33 @@
+FIT2099 2020 S1 Assignment 3 WBA
+Team: KingEngine
+
+Team Member Responsibilities:
+1. Kee Pei Jiin
+- Code for the following functionalities:
+	a) Player travels across maps
+	b) Mambo Marie chants and creates new Zombies
+	e) A new menu class that enables Player to quit game
+- Update UML Class diagram, class responsibilities and design rationale accordingly, if there're changes in the implementation for the above functionalities.
+- Create sequence diagram for the functionality: Mambo Marie chants and creates new Zombies
+- Review Wei Li's code
+- Write javadoc for newly created classes and modified classes
+- Discusses and contributes to the suggestions for classes in engine package
+Expected delivery date: 11 June 2020
+
+2. Tan Wei Li
+- Code for the following functionalities:
+	a) Player shoots using shotgun
+	b) Player aims and shoots using sniper rifle
+- Update UML Class diagram, class responsibilities and design rationale accordingly, if there're changes in the implementation for the above functionalities.
+- Create sequence diagram for the functionalities: Shooting using shotgun, Aiming and shooting using sniper rifle
+- Review Pei Jiin's code
+- Write javadoc for newly created classes and modified classes
+- Discusses and contributes to the suggestions for classes in engine package
+Expected delivery date: 11 June 2019
+
+Team Agreement:
+Member: Kee Pei Jiin
+Statement: I accept this WBA.
+
+Member: Tan Wei Li
+Statement: I accept this WBA.

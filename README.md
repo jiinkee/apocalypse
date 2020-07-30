@@ -13,15 +13,15 @@ In this game, you are a survivor of the Zombie Apocalypse. The dead have risen f
 ## Gameplay
 ### Characters
 **Player** `@`
- - This is you!
-\ **Human** `H` 
-- NPCs that wander around the ground and attack zombies when they encounter one. When they are killed, their corpse will revive as a Zombie 5 to 10 turns later.
+: This is you!
+**Human** `H` 
+: NPCs that wander around the ground and attack zombies when they encounter one. When they are killed, their corpse will revive as a Zombie 5 to 10 turns later.
 **Farmer** `F` 
-- NPCs that an sow crops, fertilise unripe crops and harvest ripe crops. And of course, they can do everything a human can do (since farmers are humans too).
+: NPCs that an sow crops, fertilise unripe crops and harvest ripe crops. And of course, they can do everything a human can do (since farmers are humans too).
 **Zombie** `Z` 
-- They are much more violent than humans. They will hunt down humans and bite/punch humans. They're also smart enough to pick up weapons and attack using them. They will drop limbs occasionally when they are being attacked.
+: They are much more violent than humans. They will hunt down humans and bite/punch humans. They're also smart enough to pick up weapons and attack using them. They will drop limbs occasionally when they are being attacked.
 **Mambo Marie** `M` 
-- The source of the local zombie epidemic! She is a mysterious Voodoo priestess that will appear out of nowhere. If she is currently not on the map, she has a 5% chance per turn of appearing. After her appearance, she will chant and summon 5 more zombies every 10 turns. If she is not killed, she will vanish after 30 turns. Mambo Marie will keep coming back until she is killed. *She is definitely a bad news that need to be get rid of ASAP!*
+: The source of the local zombie epidemic! She is a mysterious Voodoo priestess that will appear out of nowhere. If she is currently not on the map, she has a 5% chance per turn of appearing. After her appearance, she will chant and summon 5 more zombies every 10 turns. If she is not killed, she will vanish after 30 turns. Mambo Marie will keep coming back until she is killed. *She is definitely a bad news that need to be get rid of ASAP!*
 
 ### Weapons
 **Plank** `)`

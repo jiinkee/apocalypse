@@ -14,7 +14,7 @@ In this game, you are a survivor of the Zombie Apocalypse. The dead have risen f
 ### Characters
 **Player** `@`
  - This is you!
-**Human** `H` 
+\ **Human** `H` 
 - NPCs that wander around the ground and attack zombies when they encounter one. When they are killed, their corpse will revive as a Zombie 5 to 10 turns later.
 **Farmer** `F` 
 - NPCs that an sow crops, fertilise unripe crops and harvest ripe crops. And of course, they can do everything a human can do (since farmers are humans too).
